@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'Q'
 - !lcsh 'Science'
+- GITenberg
 title: 'The Outline of Science, Vol. 1 (of 4)
 
   A Plain Story Simply Told'
